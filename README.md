@@ -3,7 +3,7 @@
 
 An AI-powered system that predicts the quality of a mobile network signal (GSM, 4G, 5G) using technical signal features. This project includes synthetic data generation, machine learning training, and a real-time prediction interface using Streamlit.
 
---
+
 
 ## Project Overview
 
